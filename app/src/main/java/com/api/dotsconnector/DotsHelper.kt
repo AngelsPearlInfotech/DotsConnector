@@ -9,7 +9,7 @@ class DotsHelper{
     var allset = false
 
 
-    var jhgjh=false
+    var jhgjh123=false
 
     var righttobottom=false;
     var righttobottom1=false;
