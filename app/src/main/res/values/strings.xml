@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DotsConnector</string>
+    <string name="bullet">\u2022</string>
+</resources>
