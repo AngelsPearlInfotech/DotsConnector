@@ -10,4 +10,6 @@ class DotsHelper{
 
 
     var jhgjh=false
+
+    var righttobottom=false;
 }
